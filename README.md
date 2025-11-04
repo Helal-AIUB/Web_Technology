@@ -1,8 +1,9 @@
 # Web Technology – Lab Task 1
+Name:- Md. Helal Uddin
+ID: 23-50044-1
+Section: K
 
-This repository contains my Web Technology lab task for AIUB.  
 It includes basic HTML, CSS, and form design.
-
 ## ✅ Features
 - HTML form layout using tables
 - Clean input fields (email, text, password)
