@@ -1,7 +1,7 @@
-# Web Technology – Lab Task 1
-Name:- Md. Helal Uddin
-ID: 23-50044-1
-Section: K
+## Web Technology – Lab Task 1
+#Name:- Md. Helal Uddin
+#ID: 23-50044-1
+#Section: K
 
 It includes basic HTML, CSS, and form design.
 ## ✅ Features
